@@ -1,0 +1,15 @@
+D:\WPF\Bai 3\WPF-Button\WPF-Button\bin\Debug\WPF-Button.exe.config
+D:\WPF\Bai 3\WPF-Button\WPF-Button\bin\Debug\WPF-Button.exe
+D:\WPF\Bai 3\WPF-Button\WPF-Button\bin\Debug\WPF-Button.pdb
+D:\WPF\Bai 3\WPF-Button\WPF-Button\obj\Debug\WPF-Button.csprojAssemblyReference.cache
+D:\WPF\Bai 3\WPF-Button\WPF-Button\obj\Debug\MainWindow.g.cs
+D:\WPF\Bai 3\WPF-Button\WPF-Button\obj\Debug\App.g.cs
+D:\WPF\Bai 3\WPF-Button\WPF-Button\obj\Debug\WPF-Button_MarkupCompile.cache
+D:\WPF\Bai 3\WPF-Button\WPF-Button\obj\Debug\WPF-Button_MarkupCompile.lref
+D:\WPF\Bai 3\WPF-Button\WPF-Button\obj\Debug\MainWindow.baml
+D:\WPF\Bai 3\WPF-Button\WPF-Button\obj\Debug\WPF-Button.g.resources
+D:\WPF\Bai 3\WPF-Button\WPF-Button\obj\Debug\WPF_Button.Properties.Resources.resources
+D:\WPF\Bai 3\WPF-Button\WPF-Button\obj\Debug\WPF-Button.csproj.GenerateResource.cache
+D:\WPF\Bai 3\WPF-Button\WPF-Button\obj\Debug\WPF-Button.csproj.CoreCompileInputs.cache
+D:\WPF\Bai 3\WPF-Button\WPF-Button\obj\Debug\WPF-Button.exe
+D:\WPF\Bai 3\WPF-Button\WPF-Button\obj\Debug\WPF-Button.pdb

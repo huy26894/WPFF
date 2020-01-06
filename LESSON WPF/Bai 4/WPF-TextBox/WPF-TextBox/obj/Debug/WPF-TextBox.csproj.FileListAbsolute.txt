@@ -1,0 +1,15 @@
+D:\WPF\Bai 4\WPF-TextBox\WPF-TextBox\bin\Debug\WPF-TextBox.exe.config
+D:\WPF\Bai 4\WPF-TextBox\WPF-TextBox\bin\Debug\WPF-TextBox.exe
+D:\WPF\Bai 4\WPF-TextBox\WPF-TextBox\bin\Debug\WPF-TextBox.pdb
+D:\WPF\Bai 4\WPF-TextBox\WPF-TextBox\obj\Debug\WPF-TextBox.csprojAssemblyReference.cache
+D:\WPF\Bai 4\WPF-TextBox\WPF-TextBox\obj\Debug\MainWindow.g.cs
+D:\WPF\Bai 4\WPF-TextBox\WPF-TextBox\obj\Debug\App.g.cs
+D:\WPF\Bai 4\WPF-TextBox\WPF-TextBox\obj\Debug\WPF-TextBox_MarkupCompile.cache
+D:\WPF\Bai 4\WPF-TextBox\WPF-TextBox\obj\Debug\WPF-TextBox_MarkupCompile.lref
+D:\WPF\Bai 4\WPF-TextBox\WPF-TextBox\obj\Debug\MainWindow.baml
+D:\WPF\Bai 4\WPF-TextBox\WPF-TextBox\obj\Debug\WPF-TextBox.g.resources
+D:\WPF\Bai 4\WPF-TextBox\WPF-TextBox\obj\Debug\WPF_TextBox.Properties.Resources.resources
+D:\WPF\Bai 4\WPF-TextBox\WPF-TextBox\obj\Debug\WPF-TextBox.csproj.GenerateResource.cache
+D:\WPF\Bai 4\WPF-TextBox\WPF-TextBox\obj\Debug\WPF-TextBox.csproj.CoreCompileInputs.cache
+D:\WPF\Bai 4\WPF-TextBox\WPF-TextBox\obj\Debug\WPF-TextBox.exe
+D:\WPF\Bai 4\WPF-TextBox\WPF-TextBox\obj\Debug\WPF-TextBox.pdb

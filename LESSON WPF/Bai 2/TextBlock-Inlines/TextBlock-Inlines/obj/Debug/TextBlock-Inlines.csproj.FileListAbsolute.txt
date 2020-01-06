@@ -1,0 +1,15 @@
+D:\WPF\Bai 2\TextBlock-Inlines\TextBlock-Inlines\bin\Debug\TextBlock-Inlines.exe.config
+D:\WPF\Bai 2\TextBlock-Inlines\TextBlock-Inlines\bin\Debug\TextBlock-Inlines.exe
+D:\WPF\Bai 2\TextBlock-Inlines\TextBlock-Inlines\bin\Debug\TextBlock-Inlines.pdb
+D:\WPF\Bai 2\TextBlock-Inlines\TextBlock-Inlines\obj\Debug\TextBlock-Inlines.csprojAssemblyReference.cache
+D:\WPF\Bai 2\TextBlock-Inlines\TextBlock-Inlines\obj\Debug\MainWindow.g.cs
+D:\WPF\Bai 2\TextBlock-Inlines\TextBlock-Inlines\obj\Debug\App.g.cs
+D:\WPF\Bai 2\TextBlock-Inlines\TextBlock-Inlines\obj\Debug\TextBlock-Inlines_MarkupCompile.cache
+D:\WPF\Bai 2\TextBlock-Inlines\TextBlock-Inlines\obj\Debug\TextBlock-Inlines_MarkupCompile.lref
+D:\WPF\Bai 2\TextBlock-Inlines\TextBlock-Inlines\obj\Debug\MainWindow.baml
+D:\WPF\Bai 2\TextBlock-Inlines\TextBlock-Inlines\obj\Debug\TextBlock-Inlines.g.resources
+D:\WPF\Bai 2\TextBlock-Inlines\TextBlock-Inlines\obj\Debug\TextBlock_Inlines.Properties.Resources.resources
+D:\WPF\Bai 2\TextBlock-Inlines\TextBlock-Inlines\obj\Debug\TextBlock-Inlines.csproj.GenerateResource.cache
+D:\WPF\Bai 2\TextBlock-Inlines\TextBlock-Inlines\obj\Debug\TextBlock-Inlines.csproj.CoreCompileInputs.cache
+D:\WPF\Bai 2\TextBlock-Inlines\TextBlock-Inlines\obj\Debug\TextBlock-Inlines.exe
+D:\WPF\Bai 2\TextBlock-Inlines\TextBlock-Inlines\obj\Debug\TextBlock-Inlines.pdb

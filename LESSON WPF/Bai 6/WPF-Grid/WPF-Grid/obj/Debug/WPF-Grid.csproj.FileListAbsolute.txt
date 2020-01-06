@@ -1,0 +1,15 @@
+D:\WPF\Bai 6\WPF-Grid\WPF-Grid\bin\Debug\WPF-Grid.exe.config
+D:\WPF\Bai 6\WPF-Grid\WPF-Grid\bin\Debug\WPF-Grid.exe
+D:\WPF\Bai 6\WPF-Grid\WPF-Grid\bin\Debug\WPF-Grid.pdb
+D:\WPF\Bai 6\WPF-Grid\WPF-Grid\obj\Debug\WPF-Grid.csprojAssemblyReference.cache
+D:\WPF\Bai 6\WPF-Grid\WPF-Grid\obj\Debug\MainWindow.g.cs
+D:\WPF\Bai 6\WPF-Grid\WPF-Grid\obj\Debug\App.g.cs
+D:\WPF\Bai 6\WPF-Grid\WPF-Grid\obj\Debug\WPF-Grid_MarkupCompile.cache
+D:\WPF\Bai 6\WPF-Grid\WPF-Grid\obj\Debug\WPF-Grid_MarkupCompile.lref
+D:\WPF\Bai 6\WPF-Grid\WPF-Grid\obj\Debug\MainWindow.baml
+D:\WPF\Bai 6\WPF-Grid\WPF-Grid\obj\Debug\WPF-Grid.g.resources
+D:\WPF\Bai 6\WPF-Grid\WPF-Grid\obj\Debug\WPF_Grid.Properties.Resources.resources
+D:\WPF\Bai 6\WPF-Grid\WPF-Grid\obj\Debug\WPF-Grid.csproj.GenerateResource.cache
+D:\WPF\Bai 6\WPF-Grid\WPF-Grid\obj\Debug\WPF-Grid.csproj.CoreCompileInputs.cache
+D:\WPF\Bai 6\WPF-Grid\WPF-Grid\obj\Debug\WPF-Grid.exe
+D:\WPF\Bai 6\WPF-Grid\WPF-Grid\obj\Debug\WPF-Grid.pdb

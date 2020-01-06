@@ -1,0 +1,26 @@
+﻿<Window x:Class="TextBlock_Inlines.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TextBlock_Inlines"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBlock x:Name="txbl1" Foreground="Chocolate" VerticalAlignment="Top">
+            <Hyperlink RequestNavigate="Hyperlink_RequestNavigate" NavigateUri="http://vn.saishunkansys.com/">http://vn.saishunkansys.com/</Hyperlink>  
+            - <Bold><Underline>Nguyen Duc Huy Fresher</Underline></Bold>  
+            - <Bold><Italic>Saishunkan</Italic></Bold> 
+            - <Span FontFamily="Arial" FontSize="12" Foreground="Black">Viet Nam</Span>
+        </TextBlock>
+
+        <TextBlock x:Name="txbl2" VerticalAlignment="Bottom" TextTrimming="CharacterEllipsis">
+            ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd99999
+        </TextBlock>
+
+        <TextBlock x:Name="txbl3" VerticalAlignment="Center">
+            
+        </TextBlock>
+            
+    </Grid>
+</Window>

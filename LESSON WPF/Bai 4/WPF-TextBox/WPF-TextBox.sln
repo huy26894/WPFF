@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29201.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF-TextBox", "WPF-TextBox\WPF-TextBox.csproj", "{A2E83975-C163-412A-906A-CA4D37EF352F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2E83975-C163-412A-906A-CA4D37EF352F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2E83975-C163-412A-906A-CA4D37EF352F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2E83975-C163-412A-906A-CA4D37EF352F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2E83975-C163-412A-906A-CA4D37EF352F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1AD57F31-99BA-4EDD-A2A9-8D69AC2B1C5B}
+	EndGlobalSection
+EndGlobal

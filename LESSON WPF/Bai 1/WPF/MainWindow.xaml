@@ -1,0 +1,36 @@
+﻿<Window x:Class="WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid >
+        <TextBlock Foreground="#FF5700FF" 
+                   MouseEnter="TextBlock_MouseEnter"
+                   Background="Aqua"
+                   Width="400"
+                   Height="50"
+                   VerticalAlignment="Center"
+                   HorizontalAlignment="Center"
+                   TextWrapping="Wrap" RenderTransformOrigin="0.5,0.5" 
+                   >
+            <TextBlock.Text>
+                nguyen duc huy
+            </TextBlock.Text>
+            <TextBlock.FontSize>
+                40
+            </TextBlock.FontSize>
+            <TextBlock.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="1"/>
+                    <SkewTransform AngleX="10" AngleY="0"/>
+                    <RotateTransform/>
+                    <TranslateTransform X="30"/>
+                </TransformGroup>
+            </TextBlock.RenderTransform>
+        </TextBlock>
+
+    </Grid>
+</Window>
